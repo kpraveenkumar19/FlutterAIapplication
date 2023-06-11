@@ -1,3 +1,3 @@
-# An AI flutter based application
+# An AI flutter application
 
 
